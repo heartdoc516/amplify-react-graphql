@@ -1,0 +1,14 @@
+{
+  "resourceName": "s336df3899",
+  "policyUUID": "36df3899",
+  "bucketName": "notes-images",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
